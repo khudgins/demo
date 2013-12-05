@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: Keith
+  company: Dell
+
+two:
+  name: George
+  company: Dell
+  
+three:
+  name: Jennifer
+  company: Customer
